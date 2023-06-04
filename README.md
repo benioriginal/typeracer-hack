@@ -22,6 +22,10 @@ Launch the script by running python script.py in your terminal.
 The script will take a screenshot and you need to select the text you want to automatically write .
 then swap fast to the typeracer window I have given you 2 seconds(configurable) then it will say 'time done' in the console, you need to click so the text starts writing. The default speed is very fast you can change that in line 21 from 0.01 I noticed 0.10 is the minimum so you don't need to do the verification thing. Still very fast. ALSO DON'T FORGET TO PUT THE CORRECT PATHS IN LINE 7, WHERE YOU NEED TO PUT TESSERACT.EXE WHERE YOU INSTALLED IT (IN PROGRAM FILES TESSERACT-OCR TESSERACT.EXE THAT'S THE DEFAULT PATH AND ALSO IN LINE 12 AND 13 IT SHOULD BE THE SAME PATH OF WHERE THE SCREENSHOT WOULD SAVE
 
+https://github.com/BainBan/typeracer-hack/assets/111044589/e5a11b98-5870-4a0d-9374-691f5eaa1c2b
+
+
+
 # Configuration
 yes.
 
