@@ -11,6 +11,7 @@ To use this script, you'll need to clone this repository to your local machine u
 
 ```pip install -r requirements.txt```
 **and also tesseract from sourceforge https://sourceforge.net/projects/tesseract-ocr-alt/files/**
+
 **Method 2: Install the dependencies manually:**
 
 **Python 3**
