@@ -27,7 +27,8 @@ https://github.com/BainBan/typeracer-hack/assets/111044589/e5a11b98-5870-4a0d-93
 
 
 # Configuration
-yes.
+yes. 
 
 # Contributing
 Contributions are welcome! If you find a bug or have an idea for a new feature, feel free to submit an issue or a pull request.
+This took me like an hour to make so finding bugs I don't think will be hard
